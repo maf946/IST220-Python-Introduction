@@ -180,3 +180,15 @@ number_of_times = int(number_of_times)
 
 print_text_x(text_to_print, number_of_times)
 ```
+
+Great job, slugger. Now head on over to Canvas and complete the assignment. 
+
+If you're interested in learning more about Python, I suggest:
+
+* The slides for topic 2.7 
+* The [O'Reilly Learning Platform](https://libraries.psu.edu/eresources/psu02110), including:
+	* [The Python Crash Course](https://learning.oreilly.com/library/view/python-crash-course/9781492071266/)
+	* [The Python Network Programming Cookbook](https://learning.oreilly.com/library/view/python-network-programming/9781786463999/)
+* [LinkedIn Learning](https://lnkd.in/eQJ_t26)
+	* Specifically, the course [“Learning Python”](https://www.linkedin.com/learning/learning-python/working-with-os-path-utilities?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=76811570)
+
