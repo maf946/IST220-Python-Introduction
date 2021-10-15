@@ -44,5 +44,4 @@ Replace `'PyCharm'` with `'your_name'`, ex: `'Michael Myers'`. Run it again, and
 
 Congratulations. You are a Python developer, with all the rights, privileges, and responsibilities appertaining thereto.
 
-**Your journey is not complete. Move on to [Exploring Basic Python Syntax](Exploring Basic Python Syntax.md).**
-
+**Your journey is not complete. Move on to [Exploring Basic Python Syntax](Exploring%20Basic%20Python%20Syntax.md).**
