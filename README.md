@@ -24,7 +24,7 @@ Click "New Project." Give your project the name "220PythonIntro", as shown in th
 
 You should be greeted by a screen like the below:
 
-[After Opening 220PythonIntro](AfterOpening220PythonIntro.png)
+![After Opening 220PythonIntro](AfterOpening220PythonIntro.png)
 
 The file `main.py` contains a series of instructions for the Python interpreter to execute. The typical cycle for development is to make some changes to that file (or other .py Python files), then run the interpreter, see how our code performs, make some more changes, run it again, and so forth. The easiest way to tell PyCharm that we're ready to run the script is to click the green "Play" button next to the line 1 marker. I've indicated this with a huge red arrow in the screenshot. Alternatively, you can select View -> Appearance -> Toolbar, and you'll see a row appear near the top of PyCharm which has a fixed-position Run button.
 
@@ -44,5 +44,5 @@ Replace `'PyCharm'` with `'your_name'`, ex: `'Michael Myers'`. Run it again, and
 
 Congratulations. You are a Python developer, with all the rights, privileges, and responsibilities appertaining thereto.
 
-Move on to [part 2](Part2.md).
+**Your journey is not complete. Move on to [part 2](Part2.md).**
 
