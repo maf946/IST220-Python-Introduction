@@ -8,9 +8,13 @@ Next, once you have a basic familiarity with what Python is, let's get it set up
 
 Installing PyCharm is as simple as installing any of the other programs we've installed so far this semester. Using your virtual machine's terminal, run both of the following commands:
 
-1. `sudo snap install pycharm-educational --classic`
+1. `sudo apt update`
 
-2. `sudo apt install python3-pip`
+2. `sudo snap install pycharm-educational --classic`
+
+3. `sudo apt install python3-pip`
+
+Note: As of October 2021, there is no version of PyCharm that runs within Ubuntu on an M1 Mac. There is a version of PyCharm that runs directly on the M1 Mac though (not within a virtual machine), and you should feel free to use that. If you do, note that you will need to manually set your interpreter to python3 or python3.8. If you don't, your script won't be interpreted and you will see an error saying `Process finished with exit code 137 (interrupted by signal 9: SIGKILL).`
 
 Then launch PyCharm by clicking on the app drawer (the 3x3 dots in the lower-left corner of the screen), then typing the first few letters of PyCharm (you don't even need to click in the text box—just start typing).
 
