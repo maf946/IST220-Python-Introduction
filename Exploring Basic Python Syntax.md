@@ -44,7 +44,8 @@ print("We Are!" + " Penn State!")
 
 print("Penn State Football Career Leaders in Passing Yards")
 print("Player\t\t\t\t\tYards")
-print("Trace McSorley\t\t\t9,9899")
+print("Trace McSorley\t\t\t9,899")
+print("Sean Clifford\t\t\t8,729")
 print("Christian Hackenberg\t8,427")
 print("Zack Mills\t\t\t\t7,212")
 ```
