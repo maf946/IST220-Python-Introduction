@@ -6,7 +6,15 @@ First, review "[What is Python? Executive Summary](https://www.python.org/doc/es
 
 Next, once you have a basic familiarity with what Python is, let's install [PyCharm, an integrated development environment](https://www.jetbrains.com/pycharm/), to make things a bit easier to manage. The IDE gives you a graphical application which combines  (this is why it's "integrated") several things which you would otherwise have to do with multiple applications, including the terminal. There are other IDEs aside from PyCharm, but I think this one is the best, and there is a free educational version. Everyone using the same IDE, which reduces variability and makes it much easier for us to provide help if anything goes wrong while you're working on the lab.
 
-Installing PyCharm is simple; just go to the [PyCharm download page](https://www.jetbrains.com/pycharm/download/) and select the appropriate installer for your machine.
+Installing PyCharm is simple; just pick from one of the download links below:
+
+* Windows
+    * [.exe (Windows) (almost everybody)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
+    * [.exe (Windows ARM 64) (only pick this one if you know what you're doing)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsARM64)
+
+* Mac
+    * [Apple Silicon](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=macM1&code=PCC)
+    * [Intel Mac (pre-2021 Macs)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC)
 
 Go through the standard terms of service and data sharing screens (choose whichever you wish), and then you'll be at the "Welcome to PyCharm" screen.
 
