@@ -9,8 +9,8 @@ Next, once you have a basic familiarity with what Python is, let's install [PyCh
 Installing PyCharm is simple; just pick from one of the download links below:
 
 * Windows
-    * [.exe (Windows) (almost everybody)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
-    * [.exe (Windows ARM 64) (only pick this one if you know what you're doing)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsARM64)
+    * [.exe (Windows) (almost everybody)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
+    * [.exe (Windows ARM 64) (only pick this one if you know what you're doing)](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsARM64&code=PCC)
 
 * Mac
     * [Apple Silicon](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=macM1&code=PCC)
